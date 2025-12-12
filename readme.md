@@ -34,6 +34,6 @@ https://documenter.getpostman.com/view/30484986/2sB3dSRUvN
 🚀 Deployment
 Deployed the API using
 
-Render https://nodejs-day-4-8jzh.onrender.com
+Render https://recipesapp-yy4y.onrender.com
 Authors
-Rupan
+Jayapriya
